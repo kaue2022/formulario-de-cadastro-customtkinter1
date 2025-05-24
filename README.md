@@ -11,8 +11,11 @@ Este é um projeto simples de interface gráfica desenvolvido com **Python** e *
 - Salvamento de dados em arquivo `usuarios.txt`
 
 ## 📸 Captura de Tela
+![formulario_cadastro](https://github.com/user-attachments/assets/d150000a-6e1d-4452-ac60-b432e8db5d3c)
+![cadastro_concluido](https://github.com/user-attachments/assets/a082463b-a0d2-4dd8-be2a-255778563935)
 
-![screenshot](caminho/para/sua/imagem.png) <!-- você pode tirar um print da janela e salvar no seu repositório -->
+
+
 
 ## 🚀 Tecnologias Usadas
 
@@ -23,4 +26,4 @@ Este é um projeto simples de interface gráfica desenvolvido com **Python** e *
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+https://github.com/kaue2022/formulario-de-cadastro-customtkinter1.git
